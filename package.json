@@ -1,0 +1,11 @@
+{
+  "name": "agent-q",
+  "version": "0.0.1",
+  "description": "Very thin wrapper layer between super-agent and Q to promisify superagent's callbacks",
+  "author": "Dan Echlin <dan@echl.in>",
+  "private": false,
+  "main": "./index.js",
+  "dependencies": {
+    "q": "~0.9.6"
+  }
+}
